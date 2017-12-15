@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="action_order_id">Order by ID</string>
+    <string name="action_order_title">Order by Title</string>
+    <string name="action_order_visibles">Show/hide inactive notes</string>
+    <string name="edt_title">Title</string>
+    <string name="txv_visible">Visible</string>
+    <string name="txv_description">Write your description here</string>
+    <string name="title_empty_error">Empty Title</string>
+    <string name="note_exits_error">Duplicate note</string>
+    <string name="action_context_delete">Delete note</string>
+    <string name="menu_context_header">Note options</string>
+    <string name="dialog_title">Delete note</string>
+    <string name="dialog_message">Do you want to delete note:</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>

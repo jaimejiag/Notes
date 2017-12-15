@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="action_order_id">Ordenar por ID</string>
+    <string name="action_order_title">Ordenar por Título</string>
+    <string name="action_order_visibles">Ocultar/mostrar notas no activas</string>
+    <string name="edt_title">Título</string>
+    <string name="txv_visible">Visible</string>
+    <string name="txv_description">Introduce tu descripción aquí</string>
+    <string name="title_empty_error">Título vacío</string>
+    <string name="note_exits_error">Nota duplicada</string>
+    <string name="action_context_delete">Eliminar nota</string>
+    <string name="menu_context_header">Opciones de Nota</string>
+    <string name="dialog_title">Eliminar Nota</string>
+    <string name="dialog_message">Desea eliminar la nota: </string>
+    <string name="btn_ok" translatable="false">OK</string>
+    <string name="btn_cancel">Cancelar</string>
+</resources>
